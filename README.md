@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AIvanCP&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Hello World! I'm AIvanCP</h1>
+<h1 align="center">👋 Hello! I'm AIvanCP</h1>
 <h3 align="center">A passionate developer building the future, one line of code at a time</h3>
 
 <p align="center">
@@ -47,6 +47,6 @@ const aivan = {
 🎮 When not coding: Gaming or exploring new tech
 
 🔗 Connect With Me
-<p align="center"> <a href="https://github.com/AIvanCP"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://github.com/AIvanCP"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/angeleo-ivan-cahya-pratama-412324334/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  </p>
 📈 Activity Graph
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=AIvanCP&theme=react-dark&hide_border=true" width="100%"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AIvanCP&color=blueviolet&style=flat-square&label=Profile+Views" /> </p> ``` :contentReference[oaicite:21]{index=21}
