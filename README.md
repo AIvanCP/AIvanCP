@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AIvanCP&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Hello! I'm AIvanCP</h1>
+<h1 align="center">👋 Hello World! I'm AIvanCP</h1>
 <h3 align="center">A passionate developer building the future, one line of code at a time</h3>
 
 <p align="center">
@@ -14,7 +13,8 @@
 
 I'm a developer who loves creating innovative solutions across multiple platforms:
 
-```javascript
+```javascript```
+```
 const aivan = {
   code: ["C++", "Dart", "JavaScript", "Python", "C#"],
   technologies: {
@@ -34,7 +34,7 @@ const aivan = {
 🏆 Projects & Achievements
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AIvanCP&theme=nord&column=7&no-frame=true&no-bg=true" /></a> </p>
 💡 Featured Projects
-<table> <tr> <td width="50%"> <h3 align="center">ESP32 IoT System</h3> <p align="center"> <a href="https://github.com/AIvanCP/iot-project" target="_blank"> <img src="https://via.placeholder.com/300x150?text=ESP32+IoT+Project" width="100%" alt="ESP32 IoT Project"/> </a> <p align="center"> Smart home system using ESP32 microcontrollers and Firebase for real-time monitoring and control </p> </p> </td> <td width="50%"> <h3 align="center">AR Experience with Unity</h3> <p align="center"> <a href="https://github.com/AIvanCP/ar-vuforia" target="_blank"> <img src="https://via.placeholder.com/300x150?text=AR+Unity+Project" width="100%" alt="AR Unity Project"/> </a> <p align="center"> Augmented reality application built with Unity and Vuforia for interactive experiences </p> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">Flutter Mobile App</h3> <p align="center"> <a href="https://github.com/AIvanCP/flutter-app" target="_blank"> <img src="https://via.placeholder.com/300x150?text=Flutter+Mobile+App" width="100%" alt="Flutter Mobile App"/> </a> <p align="center"> Cross-platform mobile application with Flutter and Firebase integration </p> </p> </td> <td width="50%"> <h3 align="center">Game Development</h3> <p align="center"> <a href="https://github.com/AIvanCP/unity-game" target="_blank"> <img src="https://via.placeholder.com/300x150?text=Unity+Game" width="100%" alt="Unity Game"/> </a> <p align="center"> Game developed with Unity featuring custom AI and game logic </p> </p> </td> </tr> </table>
+<table> <tr> <td width="50%"> <h3 align="center">ESP32 IoT System</h3> <p align="center"> <a href="https://github.com/AIvanCP/iot-project" target="_blank">ESP32 Smart Home Project</a><br/> Smart home system using ESP32 microcontrollers and Firebase for real-time monitoring and control. </p> </td> <td width="50%"> <h3 align="center">AR Experience with Unity</h3> <p align="center"> <a href="https://github.com/AIvanCP/ar-vuforia" target="_blank">AR Vuforia Unity Project</a><br/> Augmented reality application built with Unity and Vuforia for interactive experiences. </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">Flutter Mobile App</h3> <p align="center"> <a href="https://github.com/AIvanCP/flutter-app" target="_blank">Flutter App with Firebase</a><br/> Cross-platform mobile application with Flutter and Firebase integration. </p> </td> <td width="50%"> <h3 align="center">Game Development</h3> <p align="center"> <a href="https://github.com/AIvanCP/unity-game" target="_blank">Unity Game Project</a><br/> Game developed with Unity featuring custom AI and game logic. </p> </td> </tr> </table>
 ✨ Fun Facts
 ⚡ My most productive setup: Flutter + Firebase for rapid development
 
@@ -42,11 +42,9 @@ const aivan = {
 
 🎧 Coding productivity hack: DMC (Devil May Cry) soundtrack on loop
 
-🌱 Currently learning: AR/VR
+🌱 Currently learning: Advanced AR/VR development techniques
 
 🎮 When not coding: Gaming or exploring new tech
 
 🔗 Connect With Me
-<p align="center"> <a href="https://github.com/AIvanCP"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/angeleo-ivan-cahya-pratama-412324334/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  </p>
-📈 Activity Graph
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=AIvanCP&theme=react-dark&hide_border=true" width="100%"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AIvanCP&color=blueviolet&style=flat-square&label=Profile+Views" /> </p> ``` :contentReference[oaicite:21]{index=21}
+<p align="center"> <a href="https://github.com/AIvanCP"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/angeleo-ivan-cahya-pratama-412324334/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=AIvanCP&color=blueviolet&style=flat-square&label=Profile+Views" /> </p> ```
