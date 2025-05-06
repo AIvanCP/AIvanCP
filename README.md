@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
-  Hello World! I'm AIvanCP
+  Hello! I'm AIvanCP
 </h1>
 
 <p align="center">
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/github/followers/AIvanCP?style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=AIvanCP&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   <a href="https://wakatime.com/@AIvanCP">
-    <img src="https://wakatime.com/badge/user/018b8d92-8619-4f28-9b61-e1f56846f18e.svg" alt="Wakatime stats" />
   </a>
 </div>
 
@@ -107,7 +106,6 @@
             <h3 align="center">ESP32 IoT System</h3>
             <div align="center">
               <a href="https://github.com/AIvanCP/iot-project" target="_blank">
-                <img src="https://ik.imagekit.io/aivanthinker/projects/smart-home.png?tr=w-500,h-300" width="100%" alt="ESP32 IoT Project"/>
               </a>
               <br>
               <p>
@@ -125,7 +123,6 @@
             <h3 align="center">AR Experience with Unity</h3>
             <div align="center">
               <a href="https://github.com/AIvanCP/ar-vuforia" target="_blank">
-                <img src="https://ik.imagekit.io/aivanthinker/projects/ar-project.png?tr=w-500,h-300" width="100%" alt="AR Unity Project"/>
               </a>
               <br>
               <p>
@@ -145,7 +142,6 @@
             <h3 align="center">Flutter Mobile App</h3>
             <div align="center">
               <a href="https://github.com/AIvanCP/flutter-app" target="_blank">
-                <img src="https://ik.imagekit.io/aivanthinker/projects/flutter-app.png?tr=w-500,h-300" width="100%" alt="Flutter Mobile App"/>
               </a>
               <br>
               <p>
@@ -163,7 +159,6 @@
             <h3 align="center">Unity Game Development</h3>
             <div align="center">
               <a href="https://github.com/AIvanCP/unity-game" target="_blank">
-                <img src="https://ik.imagekit.io/aivanthinker/projects/unity-game.png?tr=w-500,h-300" width="100%" alt="Unity Game"/>
               </a>
               <br>
               <p>
