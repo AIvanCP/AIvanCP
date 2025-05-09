@@ -192,7 +192,7 @@
               <li>⚡ My most productive setup: <b>Flutter + Firebase</b> for rapid development</li>
               <li>🤖 I enjoy experimenting with <b>AI & advanced game logic</b> in Unity</li>
               <li>🎧 Coding productivity hack: <b>DMC (Devil May Cry) soundtrack</b> on loop</li>
-              <li>🌱 Currently learning: <b>Advanced AR/VR development techniques</b></li>
+              <li>🌱 Currently learning: <b>A better life</b></li>
               <li>🎮 When not coding: <b>Gaming or exploring new tech</b></li>
               <li>💬 Ask me about: <b>IoT, Flutter, Unity, or AR development</b></li>
             </ul>
