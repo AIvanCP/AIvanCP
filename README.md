@@ -1,31 +1,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=250&section=header&text=AIvanCP&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&fontSize=80&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30&descAlignY=55&descSize=20" />
 </div>
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
   Hello! I'm AIvanCP
 </h1>
-
 <p align="center">
   <b>A passionate developer building the future, one line of code at a time</b>
 </p>
-
 <p align="center">
   <a href="https://github.com/AIvanCP">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=450&lines=IoT+Developer+%F0%9F%92%BB;AR%2FVR+Enthusiast+%F0%9F%A5%BD;Mobile+App+Developer+%F0%9F%93%B1;Always+learning+new+things+%F0%9F%94%8D" alt="Typing SVG" />
   </a>
 </p>
-
 <div align="center">
   <img src="https://img.shields.io/github/followers/AIvanCP?style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=AIvanCP&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   <a href="https://wakatime.com/@AIvanCP">
   </a>
 </div>
-
 <br>
-
 <div align="center">
   <details open>
     <summary><h2>💫 About Me</h2></summary>
@@ -33,14 +27,15 @@
     <img align="right" height="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding GIF" />
     <pre>
     const aivan = {
-      code: ["C++", "Dart", "JavaScript", "Python", "C#"],
+      code: ["C++", "Dart", "JavaScript", "Python", "C#", "HTML", "CSS", "PHP"],
       technologies: {
         mobile: ["Flutter"],
         gamedev: ["Unity", "Vuforia AR"],
         iot: ["ESP32", "Firebase"],
         frontend: ["React", "HTML", "CSS"],
-        backend: ["Node.js", "Firebase"],
+        backend: ["Node.js", "Firebase", "PHP"],
         database: ["Firebase", "MySQL"],
+        design: ["Figma"],
       },
       currentFocus: "Building AR experiences with Unity",
       funFact: "I code best with DMC soundtracks 🎮🔥",
@@ -49,7 +44,6 @@
     </pre>
   </details>
 </div>
-
 <div align="center">
   <details open>
     <summary><h2>🚀 Tech Stack</h2></summary>
@@ -60,6 +54,9 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     </p>
     <h3>Frameworks & Tools</h3>
     <p>
@@ -72,10 +69,10 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     </p>
   </details>
 </div>
-
 <div align="center">
   <details open>
     <summary><h2>📊 GitHub Stats</h2></summary>
@@ -88,14 +85,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIvanCP&theme=tokyonight" width="85%" alt="Profile Details" />
   </details>
 </div>
-
 <div align="center">
   <details open>
     <summary><h2>🏆 GitHub Trophies</h2></summary>
     <img src="https://github-profile-trophy.vercel.app/?username=AIvanCP&theme=discord&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </details>
 </div>
-
 <div align="center">
   <details open>
     <summary><h2>💡 Featured Projects</h2></summary>
@@ -177,7 +172,6 @@
     </div>
   </details>
 </div>
-
 <div align="center">
   <details open>
     <summary><h2>✨ Fun Facts</h2></summary>
@@ -206,7 +200,6 @@
     </div>
   </details>
 </div>
-
 <div align="center">
   <details open>
     <summary><h2>🔗 Connect With Me</h2></summary>
@@ -227,11 +220,6 @@
     </div>
   </details>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=150&section=footer&text=Let's%20Build%20Together!&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" />
 </div>
-
-<!-- Replace the imagekit.io URLs with your actual project images when available -->
-<!-- Update your social media links as needed -->
-<!-- You may need to sign up for a wakatime account to use that badge -->
